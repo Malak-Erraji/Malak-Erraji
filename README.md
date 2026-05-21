@@ -5,7 +5,7 @@
 I am a Software Engineering student at **Polytechnique Montréal**, deeply passionate about building scalable web applications and exploring the intersection of **Machine Learning** and **Data Science**. My background blends hands-on system administration with modern full-stack development.
 
 ---
-
+### 📫 Connect with me:
 <a href="https://www.linkedin.com/in/malak-erraji/">
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
@@ -20,10 +20,3 @@ I am a Software Engineering student at **Polytechnique Montréal**, deeply passi
 ### 💼 Professional Experience
 * **System & Network Admin:** Migrated repositories to **Azure DevOps** and automated server tasks at Primlogix.
 * **IT Support Specialist:** Managed critical infrastructure and POS systems for Couche-Tard in a bilingual environment.
-
----
-
-### 📫 Connect with me:
-* 📍 Montreal, QC
-* 📧 [malak.erraji@outlook.com](mailto:malak.erraji@outlook.com)
-* 💼 [LinkedIn](YOUR_LINKEDIN_URL_HERE)
