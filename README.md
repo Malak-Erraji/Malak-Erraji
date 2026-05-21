@@ -5,7 +5,7 @@
 I am a Software Engineering student at **Polytechnique Montréal**, deeply passionate about building scalable web applications and exploring the intersection of **Machine Learning** and **Data Science**. My background blends hands-on system administration with modern full-stack development.
 
 ---
-### 📫 Connect with me:
+### 📫 Connect with me
 <a href="https://www.linkedin.com/in/malak-erraji/">
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
