@@ -9,6 +9,9 @@ I am a Software Engineering student at **Polytechnique Montréal**, deeply passi
 <a href="https://www.linkedin.com/in/malak-erraji/">
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
+<a href="mailto:malak.erraji@outlook.com">
+  <img src="https://skillicons.dev/icons?i=gmail" />
+</a>
 
 ### 🏆 Recognitions
 * **Prix Philip et Lily Malouf (2024):** Awarded for the best performing integrated project (INF1900) for designing a high-performance robotic navigation and control algorithm in C++.
