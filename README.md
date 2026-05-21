@@ -9,18 +9,6 @@ I am a Software Engineering student at **Polytechnique Montréal**, deeply passi
 ### 🏆 Recognitions
 * **Prix Philip et Lily Malouf (2024):** Awarded for the best performing integrated project (INF1900) for designing a high-performance robotic navigation and control algorithm in C++.
 
-### 💻 Technical Toolbox
-* **Languages:** Python, C++, C#, JavaScript, SQL, VBA
-* **Web Development:** Angular, React, Node.js, HTML/CSS
-* **Data & Backend:** PostgreSQL, MongoDB, Azure DevOps
-* **Tools & Methods:** Git, Linux/Windows Server, Agile/Scrum, Active Directory
-
----
-
-### 🛠️ Current & Past Projects
-* **Relational Data Analysis:** Designing complex PostgreSQL databases and optimizing transactional integrity.
-* **Agile Full-Stack Web App:** Developed a client-server architecture using **Angular** and **Scrum** methodologies.
-* **Embedded Robotics:** Implemented OO-based control logic for autonomous systems, managing hardware-software integration.
 
 ### 💼 Professional Experience
 * **System & Network Admin:** Migrated repositories to **Azure DevOps** and automated server tasks at Primlogix.
