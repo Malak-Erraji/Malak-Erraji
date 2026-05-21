@@ -5,6 +5,7 @@
 I am a Software Engineering student at **Polytechnique Montréal**, deeply passionate about building scalable web applications and exploring the intersection of **Machine Learning** and **Data Science**. My background blends hands-on system administration with modern full-stack development.
 
 ---
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME)
 
 ### 🏆 Recognitions
 * **Prix Philip et Lily Malouf (2024):** Awarded for the best performing integrated project (INF1900) for designing a high-performance robotic navigation and control algorithm in C++.
