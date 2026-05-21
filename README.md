@@ -6,7 +6,7 @@ I am a Software Engineering student at **Polytechnique Montréal**, deeply passi
 
 ---
 
-<a href="[[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/malak-erraji/)]">
+<a href="https://www.linkedin.com/in/malak-erraji/">
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
