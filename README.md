@@ -44,49 +44,6 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 
----
-
-## Featured Projects
-
-### [Financial Data Analysis Pipeline](https://github.com/Malak-Erraji/financial-data-analysis-python)
-> Python pipeline that automates stock market data scraping, cleaning, analysis, and visualization.
-- Built modular architecture across 7 dedicated modules
-- Outputs to CSV, JSON, and SQLite
-- Computes daily returns, 50-day moving average, and 30-day volatility
-- CLI-driven with `argparse` and YAML configuration
-`Python` `Pandas` `BeautifulSoup` `Matplotlib` `SQLite`
-
-### Agile Full-Stack Web Application *(Sept – Dec 2025)*
-> Angular client/server web application developed following full Scrum methodology with sprint planning and task tracking.
-`Angular` `Node.js` `MongoDB` `Scrum`
-
-### Robotic Embedded System — Award Winner *(Sept – Dec 2024)*
-> Designed the navigation and control algorithm for a robot using state machines, sensor integration, and hardware interrupts. Won the **Prix Philip et Lily Malouf** for best performance in INF1900.
-`C++` `Embedded Systems` `OOP`
-
-### Relational Database Project *(Jan 2026)*
-> Designed complex relational schemas in PostgreSQL and implemented integrity constraints for transactional data reliability.
-`PostgreSQL` `SQL`
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Malak-Erraji&show_icons=true&theme=default&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Malak-Erraji&layout=compact&hide_border=true" height="150"/>
-</p>
-
----
-
-## Currently Learning
-
-- Machine learning fundamentals (scikit-learn, NumPy)
-- Data pipeline design and optimization
-- Cloud infrastructure and DevOps practices
-
----
-
 ## Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malak-erraji/)
